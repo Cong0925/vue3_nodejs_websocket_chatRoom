@@ -1,0 +1,2 @@
+# vue3_nodejs_websocket_chatRoom_
+一个使用vue3与作为前端页面，以及使用nodejs启动服务，使用websocket进行通信的聊天室示例
